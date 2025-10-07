@@ -9,8 +9,9 @@ Trilema Records by LAEV Blockchain tiene como objetivo preservar, analizar, tran
 
 A través de esta iniciativa, LAEV Blockchain busca mantener viva la visión filosófica, económica y estética de Popescu, garantizando su acceso a las futuras generaciones dentro de un marco de soberanía intelectual, descentralización y preservación cultural digital.
 
-Repositorio oficial: github.com/byLAEV
-trilema.com
+Repositorio oficial: https://github.com/byLAEV/Trilema-Records-by-LAEV-
+https://github.com/byLAEV
+https://trilema.com
 
 
 
